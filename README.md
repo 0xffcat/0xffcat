@@ -2,9 +2,10 @@
 
 # 🧑‍💻 0xffcat - Senior Full-stack & Web3 Developer
 
-> **Currently Seeking New Opportunities**
+> [!IMPORTANT]
+> **Open to Work**
 >
-> I'm looking for a **Senior Frontend** or **Web3 Full-stack** role (Remote / Relocation).
+> I'm looking for a **Senior Frontend Engineer** or **Web3 Full-stack Developer** role (Remote).
 >
 > 📩 Contact me on [Telegram](https://t.me/aries4cat) or [Email](mailto:colliedog1001@gmail.com).
 
@@ -15,14 +16,14 @@
   <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Open%20to%20Work-success?style=flat-square" />
 </p>
 
-I'm a **Senior Engineer** who loves diving into the internals of things—whether it's CSS-in-JS compilers or ultra-fast Solana trading bots. I previously led the frontend team at **Polyhedra (zkBridge)** and have a background in **Alibaba** and **Kuaishou**. 
+I'm a **Senior Engineer** who loves diving into the internals of things—whether it's CSS-in-JS compilers or ultra-fast Solana trading bots. I previously led the frontend team at **Polyhedra (zkBridge)** and have a background **at** Alibaba and **Kuaishou**. 
 
 
 ### 🛡️ Skills & Tools
 
-- **Frontend Mastery**: React/Next.js, typescript, performance optimization, UI library architecture.
+- **Frontend Mastery**: React/Next.js, TypeScript, performance optimization, UI library architecture.
 - **Backend**: Node.js, Golang
-- **Web3 Ecosystem**: Smart Contract, Wallet standards, dApps.
+- **Web3 Ecosystem**: Smart Contracts, Wallet standards, dApps.
 
 ### 📫 Get in touch
 

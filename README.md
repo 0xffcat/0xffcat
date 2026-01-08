@@ -2,7 +2,6 @@
 
 # 🧑‍💻 0xffcat - Senior Full-stack & Web3 Developer
 
-> [!IMPORTANT]
 > **Open to Work**
 >
 > I'm looking for a **Senior Frontend Engineer** or **Web3 Full-stack Developer** role (Remote).
@@ -13,7 +12,7 @@
   <img src="https://img.shields.io/badge/Frontend-8+ yrs-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Web3-4+ yrs-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Open--Source-Contributor-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Open%20to%20Work-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Open%20to%20Work-orange?style=flat-square" />
 </p>
 
 I'm a **Senior Engineer** who loves diving into the internals of things—whether it's CSS-in-JS compilers or ultra-fast Solana trading bots. I previously led the frontend team at **Polyhedra (zkBridge)** and have a background **at** Alibaba and **Kuaishou**. 

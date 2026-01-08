@@ -2,9 +2,10 @@
 
 # 🧑‍💻 0xffcat - Senior Full-stack & Web3 Developer
 
-> [!IMPORTANT]
 > **Currently Seeking New Opportunities**
+>
 > I'm looking for a **Senior Frontend** or **Web3 Full-stack** role (Remote / Relocation).
+>
 > 📩 Contact me on [Telegram](https://t.me/aries4cat) or [Email](mailto:colliedog1001@gmail.com).
 
 <p align="left">

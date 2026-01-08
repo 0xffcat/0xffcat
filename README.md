@@ -18,11 +18,10 @@
 I'm a **Senior Engineer** who loves diving into the internals of things—whether it's CSS-in-JS compilers or ultra-fast Solana trading bots. I previously led the frontend team at **Polyhedra (zkBridge)** and have a background **at** Alibaba and **Kuaishou**. 
 
 
-### 🛡️ Skills & Tools
+### 🛡️ Skills 
 
-- **Frontend Mastery**: React/Next.js, TypeScript, performance optimization, UI library architecture.
-- **Backend**: Node.js, Golang
-- **Web3 Ecosystem**: Smart Contracts, Wallet standards, dApps.
+- **Frontend**: React/Next.js, TypeScript, Node.js
+
 
 ### 📫 Get in touch
 

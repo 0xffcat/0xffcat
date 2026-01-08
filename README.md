@@ -26,9 +26,9 @@ Currently **Open to Work** (Remote or Relocation) for Senior Frontend / Web3 Ful
 ### 📫 Get in touch
 
 - **Status**: 🟢 **Open to Work** (Remote / Full-time / Project-based)
-- **Location**: Based in China (Remote friendly 🌍, can overlap with any time zone for at least 4 hours)
+- **Location**: Remote friendly 🌍, can overlap with any time zone for at least 4 hours
 - **Connect**: [Telegram](https://t.me/aries4cat) or [GitHub DM](https://github.com/0xffcat)
 
 ---
 
-_“Code is easy; making it performant and maintainable is the art.”_
+
